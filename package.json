@@ -1,0 +1,8 @@
+{
+  "name": "testPY",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "python-shell": "^2.0.3"
+  }
+}
